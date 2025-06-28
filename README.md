@@ -13,7 +13,7 @@
   alt="Coding" 
   width="250" 
   src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
-  style="padding-top:1000px" 
+  style="poition: absolute;"
 >
 
 ---
