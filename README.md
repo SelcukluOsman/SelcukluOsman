@@ -1,4 +1,4 @@
-[![MasterHead](https://i.imgur.com/qNFF2xG.jpg)](https://www.linkedin.com/in/selcukluosman)
+[![MasterHead](https://i.imgur.com/qNFF2xG.jpg)](https://www.linkedin.com/in/selcukselcuklu)
 
 <h1 align="center">Hi 👋, I'm Selçuk</h1>
 
@@ -56,7 +56,7 @@
 
 ### 🧩 En Sevdiğim Projeler
 
-- 🔋 [1800W Boost Converter Tasarımı](#)
+- 🔋 [6 Katmanlı 1800W Boost Converter Tasarımı](#)
 - 🚗 [BLDC Sürücü + Encoder Destekli Otomasyon Kartı](#)
 - 📟 [FreeRTOS Tabanlı OLED HMI Sistemi](#)
 
@@ -64,8 +64,8 @@
 
 ### 📫 Bana Ulaş:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://https://www.linkedin.com/in/selcukselcuklu/)  
-[![Mail](https://img.shields.io/badge/Email-Darkred?logo=gmail&style=for-the-badge)](mailto:osmanselcuklu@yahoo.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/selcukselcuklu)  
+[![Mail](https://img.shields.io/badge/E-mail-Darkred?logo=gmail&style=for-the-badge)](mailto:osmanselcuklu@yahoo.com)
 
 ---
 
