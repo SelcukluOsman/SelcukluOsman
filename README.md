@@ -8,6 +8,9 @@
 </p>
 
 </div>
+<!-- Üst çizgi -->
+<hr style="border: none; height: 2px; background-color: #d3dce6; margin: 40px 0;" />
+
 <!-- Ortadaki GIF (kod yazan adam) -->
 <div align="right">
   <img 
@@ -17,6 +20,10 @@
     style="padding: 20px;"
   />
 </div>
+
+<!-- Alt çizgi -->
+<hr style="border: none; height: 2px; background-color: #d3dce6; margin: 40px 0;" />
+
 
 ---
 
