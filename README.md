@@ -7,23 +7,23 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=2000&center=true&vCenter=true&width=1000&lines=🔧+Hardware+Design+Engineer;💡+Embedded+Developer+%26+PCB+Designer;🛠️+STM32%2C+ESP32%2C+RTOS%2C+CAN-FD;🌍+Open+Source+Maker+%26+Lifelong+Learner" alt="Typing SVG" />
 </p>
 
-</div>
-<!-- Üst çizgi -->
-<hr style="border: none; height: 2px; background-color: #d3dce6; margin: 40px 0;" />
 
 <!-- Ortadaki GIF (kod yazan adam) -->
 <div align="right">
   <img 
+    class="down"
     src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
     alt="Coding" 
     width="250" 
     style="padding: 20px;"
   />
+  <style>
+  .down {
+    position: relative;
+    top: 50px;
+  }
+</style>
 </div>
-
-<!-- Alt çizgi -->
-<hr style="border: none; height: 2px; background-color: #d3dce6; margin: 40px 0;" />
-
 
 ---
 
