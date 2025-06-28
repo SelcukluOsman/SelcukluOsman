@@ -8,8 +8,13 @@
 </p>
 
 </div>
-
-<img align="-5" alt="Coding" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img 
+  align="right" 
+  alt="Coding" 
+  width="250" 
+  src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
+  style="padding: 10px 0 0 20px;" 
+>
 
 ---
 
