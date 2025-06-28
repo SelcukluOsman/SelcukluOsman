@@ -9,7 +9,7 @@
 
 </div>
 
-<div style="display: flex; justify-content: center; align-items: center; height: 300px;">
+<div align="center" style="margin-top: 40px;">
   <img 
     src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
     alt="Coding" 
@@ -17,7 +17,6 @@
     style="padding: 20px;" 
   />
 </div>
-
 >
 
 ---
