@@ -3,27 +3,22 @@
 <h1 align="center">Hi 👋, I'm Selçuk</h1>
 
 <div align="center">
-  <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=2000&center=true&vCenter=true&width=1000&lines=🔧+Hardware+Design+Engineer;💡+Embedded+Developer+%26+PCB+Designer;🛠️+STM32%2C+ESP32%2C+RTOS%2C+CAN-FD;🌍+Open+Source+Maker+%26+Lifelong+Learner" alt="Typing SVG" />
-</p>
+</div>
 
+<!-- GIF Ortada ve çizgiler arasında -->
+<hr style="border: none; height: 2px; background-color: #d3dce6; margin: 40px 0;" />
 
-<!-- Ortadaki GIF (kod yazan adam) -->
-<div align="right">
+<div align="center">
   <img 
-    class="down"
     src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
-    alt="Coding" 
+    alt="Coding GIF" 
     width="250" 
     style="padding: 20px;"
   />
-  <style>
-  .down {
-    position: relative;
-    top: 50px;
-  }
-</style>
 </div>
+
+<hr style="border: none; height: 2px; background-color: #d3dce6; margin: 40px 0;" />
 
 ---
 
@@ -45,17 +40,17 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
   </a>
 
-  <!-- ESP32 / (SVG dönüştürülmüş sürüm) -->
+  <!-- ESP32 -->
   <a href="https://www.espressif.com/en/products/socs/esp32" target="_blank" rel="noreferrer">
-<img src="https://github.com/SelcukluOsman/SelcukluOsman/blob/main/assets/espressif-systems.svg?raw=true" alt="ESP32" width="40" height="40"/>
+    <img src="https://github.com/SelcukluOsman/SelcukluOsman/blob/main/assets/espressif-systems.svg?raw=true" alt="ESP32" width="40" height="40"/>
   </a>
 
-  <!-- Altium (SVG dönüştürülmüş sürüm) -->
+  <!-- Altium -->
   <a href="https://www.altium.com/" target="_blank" rel="noreferrer">
     <img src="https://github.com/SelcukluOsman/SelcukluOsman/blob/main/assets/altium-icon.png?raw=true" alt="Altium" width="40" height="40"/>
   </a>
 
-  <!-- FreeRTOS (manually hosted image) -->
+  <!-- FreeRTOS -->
   <a href="https://www.freertos.org/" target="_blank" rel="noreferrer">
     <img src="https://github.com/SelcukluOsman/SelcukluOsman/blob/main/assets/freertos-logo.png?raw=true" alt="FreeRTOS" width="60" height="40"/>
   </a>
@@ -75,7 +70,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
   </a>
 </p>
-
 
 ---
 
@@ -104,7 +98,7 @@
 
 ---
 
-
-  <!-- Snake Animation -->
+<!-- Snake Animation -->
+<div align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
+</div>
