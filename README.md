@@ -18,16 +18,17 @@
   />
 </div>
 
-
+---
 
 ### 🧠 Hakkımda
 
-- 🛠️ Donanım tasarımı, güç elektroniği ve gömülü yazılım geliştirme üzerine 4 yıla yakın deneyim  
-- ⚡ STM32, ESP32, FreeRTOS, CAN, UART, SPI, I2C, ADC, PWM...  
-- 🧰 Altium Designer, LTspice, CubeMX, VS Code, PlatformIO  
-- 📊 EMC ve MIL-STD uyumlu kartlar tasarlama deneyimi  
-- 🔍 Şu an: Güvenli IoT, RTOS derinliği ve fonksiyonel güvenlik üzerine çalışıyorum  
+🛠️ Donanım tasarımı, güç elektroniği ve gömülü yazılım geliştirme üzerine 4 yıla yakın deneyim  
+⚡ STM32, ESP32, FreeRTOS, CAN, UART, SPI, I2C, ADC, PWM...  
+🧰 Altium Designer, LTspice, CubeMX, VS Code, PlatformIO  
+📊 EMC ve MIL-STD uyumlu kartlar tasarlama deneyimi  
+🔍 Şu an: Güvenli IoT, RTOS derinliği ve fonksiyonel güvenlik üzerine çalışıyorum  
 
+---
 
 ### 🧰 Teknolojiler ve Araçlar
 
