@@ -4,12 +4,12 @@
 
 <div align="center">
   <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=🔧+Hardware+Design+Engineer;💡+Embedded+Developer+%26+PCB+Designer;🛠️+STM32%2C+ESP32%2C+RTOS%2C+CAN-FD;🌍+Open+Source+Maker+%26+Lifelong+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=2000&center=true&vCenter=true&width=1000&lines=🔧+Hardware+Design+Engineer;💡+Embedded+Developer+%26+PCB+Designer;🛠️+STM32%2C+ESP32%2C+RTOS%2C+CAN-FD;🌍+Open+Source+Maker+%26+Lifelong+Learner" alt="Typing SVG" />
 </p>
 
 </div>
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ---
 
@@ -17,7 +17,7 @@
 
 - 🛠️ Donanım tasarımı, güç elektroniği ve gömülü yazılım geliştirme üzerine 4 yıla yakın deneyim  
 - ⚡ STM32, ESP32, FreeRTOS, CAN, UART, SPI, I2C, ADC, PWM...  
-- 🧰 Altium Designer, KiCad, LTspice, CubeMX, VS Code, PlatformIO  
+- 🧰 Altium Designer, LTspice, CubeMX, VS Code, PlatformIO  
 - 📊 EMC ve MIL-STD uyumlu kartlar tasarlama deneyimi  
 - 🔍 Şu an: Güvenli IoT, RTOS derinliği ve fonksiyonel güvenlik üzerine çalışıyorum  
 
@@ -77,7 +77,7 @@
 
 ### 🧩 En Sevdiğim Projeler
 
-- 🔋 [6 Katmanlı 1800W Boost Converter Tasarımı](#)
+- 🔋 [1800W Boost Converter Tasarımı](#)
 - 🚗 [BLDC Sürücü + Encoder Destekli Otomasyon Kartı](#)
 - 📟 [FreeRTOS Tabanlı OLED HMI Sistemi](#)
 
