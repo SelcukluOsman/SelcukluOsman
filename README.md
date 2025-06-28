@@ -14,7 +14,7 @@
     src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
     alt="Coding" 
     width="250" 
-    style="padding: 500px;"
+    style="padding: 20px;"
   />
 </div>
 
