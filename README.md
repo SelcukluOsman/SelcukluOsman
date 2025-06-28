@@ -26,24 +26,37 @@
 ### 🧰 Teknolojiler ve Araçlar
 
 <p align="left">
-  <a href="https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html" target="_blank" rel="noreferrer">
+  <!-- C -->
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
   </a>
+
+  <!-- ESP32 / Arduino -->
   <a href="https://www.espressif.com/en/products/socs/esp32" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="ESP32" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="ESP32/Arduino" width="40" height="40"/>
   </a>
+
+  <!-- Altium (SVG dönüştürülmüş sürüm) -->
   <a href="https://www.altium.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Altium_Logo.png" alt="Altium" width="40" height="40"/>
+    <img src="https://github.com/SelcukluOsman/SelcukluOsman/blob/main/assets/altium-icon.png?raw=true" alt="Altium" width="40" height="40"/>
   </a>
+
+  <!-- FreeRTOS (manually hosted image) -->
   <a href="https://www.freertos.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/FreeRTOS_Logo.png" alt="FreeRTOS" width="40" height="40"/>
+    <img src="https://github.com/SelcukluOsman/SelcukluOsman/blob/main/assets/freertos-logo.png?raw=true" alt="FreeRTOS" width="40" height="40"/>
   </a>
+
+  <!-- Bash -->
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/>
   </a>
+
+  <!-- Python -->
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a>
+
+  <!-- VS Code -->
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
   </a>
