@@ -8,16 +8,15 @@
 </p>
 
 </div>
-
-<div align="center" style="margin-top: 40px;">
+<!-- Ortadaki GIF (kod yazan adam) -->
+<div align="right">
   <img 
     src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
     alt="Coding" 
     width="250" 
-    style="padding: 20px;" 
+    style="padding: 20px; margin-top:400px"
   />
 </div>
->
 
 ---
 
