@@ -56,7 +56,7 @@
 
 ### 🧩 En Sevdiğim Projeler
 
-- 🔋 [6 Katmanlı 1800W Boost Converter Tasarımı](#)
+- 🔋 [1800W Boost Converter Tasarımı](#)
 - 🚗 [BLDC Sürücü + Encoder Destekli Otomasyon Kartı](#)
 - 📟 [FreeRTOS Tabanlı OLED HMI Sistemi](#)
 
@@ -64,8 +64,8 @@
 
 ### 📫 Bana Ulaş:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/selcukluosman)  
-[![Mail](https://img.shields.io/badge/Email-Darkred?logo=gmail&style=for-the-badge)](mailto:selcuklu.osman@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://https://www.linkedin.com/in/selcukselcuklu/)  
+[![Mail](https://img.shields.io/badge/Email-Darkred?logo=gmail&style=for-the-badge)](mailto:osmanselcuklu@yahoo.com)
 
 ---
 
