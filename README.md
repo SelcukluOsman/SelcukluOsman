@@ -26,22 +26,29 @@
 ### 🧰 Teknolojiler ve Araçlar
 
 <p align="left">
-  <a href="https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/stmicroelectronics.svg" alt="STM32" width="40" height="40"/>
+  <a href="https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
   </a>
-  <a href="https://www.espressif.com/en/products/socs/esp32" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/espressif.svg" alt="ESP32" width="40" height="40"/>
+  <a href="https://www.espressif.com/en/products/socs/esp32" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="ESP32" width="40" height="40"/>
   </a>
-  <a href="https://www.altium.com/" target="_blank">
+  <a href="https://www.altium.com/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Altium_Logo.png" alt="Altium" width="40" height="40"/>
   </a>
-  <a href="https://www.freertos.org/" target="_blank">
+  <a href="https://www.freertos.org/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/FreeRTOS_Logo.png" alt="FreeRTOS" width="40" height="40"/>
   </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40"/>
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
   </a>
 </p>
+
 
 ---
 
