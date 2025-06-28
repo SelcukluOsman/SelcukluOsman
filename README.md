@@ -33,7 +33,7 @@
 
   <!-- ESP32 / (SVG dönüştürülmüş sürüm) -->
   <a href="https://www.espressif.com/en/products/socs/esp32" target="_blank" rel="noreferrer">
-<img src="https://github.com/SelcukluOsman/SelcukluOsman/blob/main/assets/esp32.png?raw=true" alt="ESP32" width="40" height="40"/>
+<img src="https://github.com/SelcukluOsman/SelcukluOsman/blob/main/assets/espressif-systems.svg?raw=true" alt="ESP32" width="40" height="40"/>
   </a>
 
   <!-- Altium (SVG dönüştürülmüş sürüm) -->
