@@ -4,7 +4,7 @@
 
 <div align="center">
   <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=🔧+Hardware+Design+Engineer;💡+Embedded+Developer+%26+PCB+Designer;🛠️+STM32%2C+ESP32%2C+RTOS%2C+CAN-FD; 🌍+Open+Source+Maker+%26+Lifelong+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=🔧+Hardware+Design+Engineer;💡+Embedded+Developer+%26+PCB+Designer;🛠️+STM32%2C+ESP32%2C+RTOS%2C+CAN-FD;🌍+Open+Source+Maker+%26+Lifelong+Learner" alt="Typing SVG" />
 </p>
 
 </div>
