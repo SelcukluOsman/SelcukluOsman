@@ -25,7 +25,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
   </a>
   <a href="https://www.espressif.com/en/products/socs/esp32" target="_blank">
-    <img src="https://github.com/SelcukluOsman/SelcukluOsman/blob/main/assets/esp32.png?raw=true" alt="ESP32" width="40" height="40"/>
+    <img src="https://github.com/SelcukluOsman/SelcukluOsman/blob/main/assets/esp32.png?raw=true" alt="espressif-systems.svg" width="40" height="40"/>
   </a>
   <a href="https://www.altium.com/" target="_blank">
     <img src="https://github.com/SelcukluOsman/SelcukluOsman/blob/main/assets/altium-icon.png?raw=true" alt="Altium" width="40" height="40"/>
