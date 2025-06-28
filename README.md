@@ -1,9 +1,9 @@
-[![MasterHead](https://i.imgur.com/qNFF2xG.jpg)](https://www.linkedin.com/in/senin-linkedin-adresin)
+[![MasterHead](https://i.imgur.com/qNFF2xG.jpg)](https://www.linkedin.com/in/selcukluosman)
 
 <h1 align="center">Hi 👋, I'm Selçuk</h1>
 
 <div align="center">
-  <a href="https://github.com/OsmanSelcukSELCUKLU">
+  <a href="https://github.com/SelcukluOsman">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=🔧+Hardware+Design+Engineer;💡+Embedded+Developer+%26+PCB+Designer;🛠️+STM32%2C+ESP32%2C+RTOS%2C+CAN-FD;🌍+Open+Source+Maker+%26+Lifelong+Learner" alt="Typing SVG" />
   </a>
 </div>
@@ -46,11 +46,11 @@
 
 ### 📈 GitHub İstatistiklerim
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OsmanSelcukSELCUKLU&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SelcukluOsman&show_icons=true&theme=radical)
 
-![Streak](https://streak-stats.demolab.com?user=OsmanSelcukSELCUKLU&theme=radical&hide_border=false)
+![Streak](https://streak-stats.demolab.com?user=SelcukluOsman&theme=radical&hide_border=false)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OsmanSelcukSELCUKLU&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SelcukluOsman&layout=compact&theme=radical)
 
 ---
 
@@ -64,8 +64,8 @@
 
 ### 📫 Bana Ulaş:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/senin-linkedin-adresin)  
-[![Mail](https://img.shields.io/badge/Email-Darkred?logo=gmail&style=for-the-badge)](mailto:seninmailin@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/selcukluosman)  
+[![Mail](https://img.shields.io/badge/Email-Darkred?logo=gmail&style=for-the-badge)](mailto:selcuklu.osman@example.com)
 
 ---
 
