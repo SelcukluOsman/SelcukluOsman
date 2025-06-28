@@ -3,9 +3,10 @@
 <h1 align="center">Hi 👋, I'm Selçuk</h1>
 
 <div align="center">
-  <a href="https://github.com/SelcukluOsman">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=🔧+Hardware+Design+Engineer;💡+Embedded+Developer+%26+PCB+Designer;🛠️+STM32%2C+ESP32%2C+RTOS%2C+CAN-FD;🌍+Open+Source+Maker+%26+Lifelong+Learner" alt="Typing SVG" />
-  </a>
+  <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=🔧+Hardware+Design+Engineer;💡+Embedded+Developer+%26+PCB+Designer;🛠️+STM32%2C+ESP32%2C+RTOS%2C+CAN-FD;🌍+Open+Source+Maker+%26+Lifelong+Learner" alt="Typing SVG" />
+</p>
+
 </div>
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
