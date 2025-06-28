@@ -31,9 +31,9 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
   </a>
 
-  <!-- ESP32 / Arduino -->
+  <!-- ESP32 / (SVG dönüştürülmüş sürüm) -->
   <a href="https://www.espressif.com/en/products/socs/esp32" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="ESP32/Arduino" width="40" height="40"/>
+<img src="https://github.com/SelcukluOsman/SelcukluOsman/blob/main/assets/esp32.png?raw=true" alt="ESP32" width="40" height="40"/>
   </a>
 
   <!-- Altium (SVG dönüştürülmüş sürüm) -->
@@ -43,7 +43,7 @@
 
   <!-- FreeRTOS (manually hosted image) -->
   <a href="https://www.freertos.org/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/SelcukluOsman/SelcukluOsman/blob/main/assets/freertos-logo.png?raw=true" alt="FreeRTOS" width="40" height="40"/>
+    <img src="https://github.com/SelcukluOsman/SelcukluOsman/blob/main/assets/freertos-logo.png?raw=true" alt="FreeRTOS" width="60" height="40"/>
   </a>
 
   <!-- Bash -->
