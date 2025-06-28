@@ -18,7 +18,7 @@
   />
 </div>
 
----
+
 
 ### 🧠 Hakkımda
 
@@ -28,7 +28,6 @@
 - 📊 EMC ve MIL-STD uyumlu kartlar tasarlama deneyimi  
 - 🔍 Şu an: Güvenli IoT, RTOS derinliği ve fonksiyonel güvenlik üzerine çalışıyorum  
 
----
 
 ### 🧰 Teknolojiler ve Araçlar
 
