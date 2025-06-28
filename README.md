@@ -1,4 +1,4 @@
-[![MasterHead](https://i.imgur.com/qNFF2xG.jpg)](https://www.linkedin.com/in/selcukselcuklu)
+[![MasterHead](https://github.com/SelcukluOsman/SelcukluOsman/blob/main/assets/masterhead.jpg?raw=true)](https://www.linkedin.com/in/selcukselcuklu)
 
 <h1 align="center">Hi 👋, I'm Selçuk</h1>
 
