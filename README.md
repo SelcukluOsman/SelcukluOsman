@@ -1,10 +1,10 @@
 [![MasterHead](https://github.com/SelcukluOsman/SelcukluOsman/blob/main/assets/masterhead.jpg?raw=true)](https://www.linkedin.com/in/selcukselcuklu)
 
-## 👋 Hi, I'm Selçuk
+<h1 align="center">Hi 👋, I'm Selçuk</h1>
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Coding GIF"/>
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=2000&width=1000&lines=🔧+Hardware+Design+Engineer;💡+Embedded+Developer+%26+PCB+Designer;🛠️+STM32%2C+ESP32%2C+RTOS%2C+CAN-FD;🌍+Open+Source+Maker+%26+Lifelong+Learner)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=2000&width=1000&lines=🔧+Hardware+Design+Engineer;💡+Embedded+Developer+%26+PCB+Designer;🛠️+STM32%2C+ESP32%2C+RTOS%2C+CAN-FD;🌍+Open+Source+Maker+%26+Lifelong+Learner" alt="Typing SVG" />
+</p>
 
 ---
 
@@ -21,38 +21,25 @@
 ### 🧰 Teknolojiler ve Araçlar
 
 <p align="left">
-  <!-- C -->
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer">
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
   </a>
-
-  <!-- ESP32 (kendi PNG dosyan) -->
-  <a href="https://www.espressif.com/en/products/socs/esp32" target="_blank" rel="noreferrer">
+  <a href="https://www.espressif.com/en/products/socs/esp32" target="_blank">
     <img src="https://github.com/SelcukluOsman/SelcukluOsman/blob/main/assets/esp32.png?raw=true" alt="ESP32" width="40" height="40"/>
   </a>
-
-  <!-- Altium -->
-  <a href="https://www.altium.com/" target="_blank" rel="noreferrer">
+  <a href="https://www.altium.com/" target="_blank">
     <img src="https://github.com/SelcukluOsman/SelcukluOsman/blob/main/assets/altium-icon.png?raw=true" alt="Altium" width="40" height="40"/>
   </a>
-
-  <!-- FreeRTOS -->
-  <a href="https://www.freertos.org/" target="_blank" rel="noreferrer">
+  <a href="https://www.freertos.org/" target="_blank">
     <img src="https://github.com/SelcukluOsman/SelcukluOsman/blob/main/assets/freertos-logo.png?raw=true" alt="FreeRTOS" width="60" height="40"/>
   </a>
-
-  <!-- Bash -->
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+  <a href="https://www.gnu.org/software/bash/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/>
   </a>
-
-  <!-- Python -->
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+  <a href="https://www.python.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a>
-
-  <!-- VS Code -->
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+  <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
   </a>
 </p>
@@ -82,5 +69,6 @@
 
 ---
 
-<!-- Snake Animation -->
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
