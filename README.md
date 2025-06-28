@@ -90,9 +90,6 @@
 
 ---
 
-<p align="center">
-  <!-- Waving Footer -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 
   <!-- Snake Animation -->
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
