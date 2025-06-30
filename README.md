@@ -68,7 +68,3 @@
 [![Mail](https://img.shields.io/badge/E-mail-Darkred?logo=gmail&style=for-the-badge)](mailto:osmanselcuklu@yahoo.com)
 
 ---
-
-// <p align="center">
-//  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
-// </p>
