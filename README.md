@@ -8,17 +8,17 @@
 
 ---
 
-### 🧠 Hakkımda
+### 🧠 About Me
 
-- 🛠️ Donanım tasarımı, güç elektroniği ve gömülü yazılım geliştirme üzerine 4 yıla yakın deneyim  
+- 🛠️ Nearly 4 years of experience in hardware design, power electronics, and embedded software development
 - ⚡ STM32, ESP32, FreeRTOS, CAN, UART, SPI, I2C, ADC, PWM...  
-- 🧰 Altium Designer, LTspice, CubeMX, VS Code, PlatformIO  
-- 📊 EMC ve MIL-STD uyumlu kartlar tasarlama deneyimi  
-- 🔍 Şu an: Güvenli IoT, RTOS derinliği ve fonksiyonel güvenlik üzerine çalışıyorum  
+- 🧰 Altium Designer, LTspice, CubeMX, VS Code, PlatformIO
+- 📊 Experience in designing EMC and MIL-STD compliant boards
+- 🔍 Currently: Working on secure IoT, RTOS depth, and functional safety  
 
 ---
 
-### 🧰 Teknolojiler ve Araçlar
+### 🧰 Technologies and Tools
 
 <p align="left">
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
@@ -46,7 +46,7 @@
 
 ---
 
-### 📈 GitHub İstatistiklerim
+### 📈 My GitHub Statistics
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SelcukluOsman&show_icons=true&theme=radical)
 ![Streak](https://streak-stats.demolab.com?user=SelcukluOsman&theme=radical&hide_border=false)
@@ -55,7 +55,7 @@
 ---
 
 <!--
-### 🧩 En Sevdiğim Projeler
+### 🧩 My Favourite Projects
 
 - 🔋 [1800W Boost Converter Tasarımı](#)
 - 🚗 [BLDC Sürücü + Encoder Destekli Otomasyon Kartı](#)
