@@ -54,13 +54,14 @@
 
 ---
 
+<!--
 ### 🧩 En Sevdiğim Projeler
 
 - 🔋 [1800W Boost Converter Tasarımı](#)
 - 🚗 [BLDC Sürücü + Encoder Destekli Otomasyon Kartı](#)
 - 📟 [FreeRTOS Tabanlı OLED HMI Sistemi](#)
+-->
 
----
 
 ### 📫 Bana Ulaş:
 
