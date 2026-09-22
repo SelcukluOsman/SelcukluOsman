@@ -1,71 +1,72 @@
-[![MasterHead](https://github.com/SelcukluOsman/SelcukluOsman/blob/main/assets/masterhead.jpg?raw=true)](https://www.linkedin.com/in/selcukselcuklu)
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Selçuk</h1>
+<a href="https://www.linkedin.com/in/selcukselcuklu">
+  <img src="https://github.com/SelcukluOsman/SelcukluOsman/blob/main/assets/masterhead.jpg?raw=true" alt="Selçuk" width="100%" />
+</a>
 
-  <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=2000&center=true&vCenter=true&width=1000&lines=🔧+Hardware+Design+Engineer;💡+Embedded+Developer+%26+PCB+Designer;🛠️+STM32%2C+ESP32%2C+RTOS%2C+CAN-FD;🌍+Open+Source+Maker+%26+Lifelong+Learner" alt="Typing SVG" />
-</p>
+<br />
 
----
+# Selçuk
 
-### 🧠 About Me
+**Hardware Design Engineer · Embedded Developer**
 
-- 🛠️ Nearly 4 years of experience in hardware design, power electronics, and embedded software development
-- ⚡ STM32, ESP32, FreeRTOS, CAN, UART, SPI, I2C, ADC, PWM...  
-- 🧰 Altium Designer, LTspice, CubeMX, VS Code, PlatformIO
-- 📊 Experience in designing EMC and MIL-STD compliant boards
-- 🔍 Currently: Working on secure IoT, RTOS depth, and functional safety  
+<br />
 
----
+STM32 · ESP32 · FreeRTOS · CAN-FD · PCB Design
 
-### 🧰 Technologies and Tools
+</div>
+
+<br />
+<br />
+
+## About
+
+Nearly four years of experience in hardware design, power electronics, and embedded software.
+
+Working with STM32 and ESP32 platforms, FreeRTOS, and communication protocols such as CAN, UART, SPI, I2C, ADC, and PWM. Designing boards with EMC and MIL-STD compliance in mind.
+
+Currently exploring secure IoT, deeper RTOS internals, and functional safety.
+
+<br />
+
+## Tools
 
 <p align="left">
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  </a>
-  <a href="https://www.espressif.com/en/products/socs/esp32" target="_blank">
-    <img src="https://github.com/SelcukluOsman/SelcukluOsman/blob/main/assets/espressif-systems.svg?raw=true" alt="ESP32" width="40" height="40"/>
-  </a>
-  <a href="https://www.altium.com/" target="_blank">
-    <img src="https://github.com/SelcukluOsman/SelcukluOsman/blob/main/assets/altium-icon.png?raw=true" alt="Altium" width="40" height="40"/>
-  </a>
-  <a href="https://www.freertos.org/" target="_blank">
-    <img src="https://github.com/SelcukluOsman/SelcukluOsman/blob/main/assets/freertos-logo.png?raw=true" alt="FreeRTOS" width="60" height="40"/>
-  </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
-  </a>
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="32" height="32" /></a>
+  &nbsp;
+  <a href="https://www.espressif.com/en/products/socs/esp32"><img src="https://github.com/SelcukluOsman/SelcukluOsman/blob/main/assets/espressif-systems.svg?raw=true" alt="ESP32" width="32" height="32" /></a>
+  &nbsp;
+  <a href="https://www.altium.com/"><img src="https://github.com/SelcukluOsman/SelcukluOsman/blob/main/assets/altium-icon.png?raw=true" alt="Altium" width="32" height="32" /></a>
+  &nbsp;
+  <a href="https://www.freertos.org/"><img src="https://github.com/SelcukluOsman/SelcukluOsman/blob/main/assets/freertos-logo.png?raw=true" alt="FreeRTOS" width="48" height="32" /></a>
+  &nbsp;
+  <a href="https://www.gnu.org/software/bash/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="32" height="32" /></a>
+  &nbsp;
+  <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="32" height="32" /></a>
+  &nbsp;
+  <a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="32" height="32" /></a>
 </p>
 
----
+<br />
 
-### 📈 My GitHub Statistics
+## Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SelcukluOsman&show_icons=true&theme=radical)
-![Streak](https://streak-stats.demolab.com?user=SelcukluOsman&theme=radical&hide_border=false)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SelcukluOsman&layout=compact&theme=radical)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=SelcukluOsman&show_icons=true&theme=default&hide_border=true&title_color=222222&text_color=444444&icon_color=555555" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SelcukluOsman&layout=compact&theme=default&hide_border=true&title_color=222222&text_color=444444" alt="Top Languages" height="165" />
+</p>
 
----
+<img src="https://streak-stats.demolab.com?user=SelcukluOsman&theme=default&hide_border=true&background=FFFFFF00&ring=555555&fire=555555&currStreakLabel=222222" alt="Streak" />
 
 <!--
-### 🧩 My Favourite Projects
-
-- 🔋 [1800W Boost Converter Tasarımı](#)
-- 🚗 [BLDC Sürücü + Encoder Destekli Otomasyon Kartı](#)
-- 📟 [FreeRTOS Tabanlı OLED HMI Sistemi](#)
+### Featured Projects
+- 1800W Boost Converter Design
+- BLDC Driver + Encoder-based Automation Board
+- FreeRTOS-based OLED HMI System
 -->
 
+<br />
 
-### 📫 Bana Ulaş:
+## Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/selcukselcuklu)  
-[![Mail](https://img.shields.io/badge/E-mail-Darkred?logo=gmail&style=for-the-badge)](mailto:osmanselcuklu@yahoo.com)
-
----
+<a href="https://www.linkedin.com/in/selcukselcuklu">LinkedIn</a> &nbsp;·&nbsp; <a href="mailto:osmanselcuklu@yahoo.com">Email</a>
