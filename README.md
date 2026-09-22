@@ -47,13 +47,11 @@
 ## 拓 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SelcukluOsman&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=E63946&icon_color=E63946" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SelcukluOsman&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=E63946&icon_color=E63946&count_private=true" alt="GitHub Stats" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SelcukluOsman&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=E63946" alt="Top Languages" height="170" />
 </p>
 
-<img src="https://streak-stats.demolab.com?user=SelcukluOsman&theme=tokyonight&hide_border=true&background=0D1117&ring=E63946&fire=E63946&currStreakLabel=E63946" alt="Streak" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SelcukluOsman&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=E63946&line=E63946&point=ffffff" alt="Activity Graph" width="98%" />
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=SelcukluOsman&theme=tokyonight&hide_border=true&background=0D1117&ring=E63946&fire=E63946&currStreakLabel=E63946" alt="Streak" />
 
 <!--
 ### 🧩 Featured Projects
